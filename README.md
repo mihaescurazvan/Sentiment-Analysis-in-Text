@@ -25,7 +25,7 @@ Next, the following preprocessing steps were performed:
 
 ## Data Splitting
 
-The data was split into training, validation, and testing sets. **80%** of the data was used for training, **9%** was used for validation, and **10%** was used for testing. This resulted in 129,600 tweets for training, 14,400 tweets for validation, and 16,000 tweets for testing.
+The data was split into training, validation, and testing sets. **81%** of the data was used for training, **9%** was used for validation, and **10%** was used for testing. This resulted in 129,600 tweets for training, 14,400 tweets for validation, and 16,000 tweets for testing.
 
 
 ## Tokenization and Vectorization
